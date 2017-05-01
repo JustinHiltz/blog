@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-Trying this again...
+Ok so there is no theme but it appears to be working now. Somewhat.
